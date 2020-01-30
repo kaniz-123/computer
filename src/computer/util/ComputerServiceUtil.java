@@ -38,7 +38,7 @@ public class ComputerServiceUtil {
 
 	private static void checkNullOrEmpty(String fieldName, String value) {
 		if (value == null || value.isEmpty()) {
-			throw new IllegalArgumentException(fieldName + "Value cannot be null or empty.");
+			throw new IllegalArgumentException(fieldName + " Value cannot be null or empty.");
 		}
 	}
 

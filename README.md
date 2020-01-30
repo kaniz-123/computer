@@ -18,9 +18,3 @@ i. Exception handling
 
 
 
-** You can also use any other components of java outside of these kinds mentioned above.
-While designing and writing code keep the following things in mind:
-1. Code formatting. Treat your code as good handwriting.
-2. DRY (Do not repeat yourself)
-3. Do not hard-code values.
-4. Use Inheritance properly# computer
